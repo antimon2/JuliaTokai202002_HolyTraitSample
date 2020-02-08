@@ -1,8 +1,4 @@
-authors = ["antimon2 <antimon2.me@gmail.com>"]
+name = "JuliaTokai202002_HolyTraitsSample"
+uuid = "9699869f-f15a-4c7b-ae04-2d856a6c9203"
+authors = ["GOTOH Shunsuke <antimon2.me@gmail.com>"]
 version = "0.1.0"
-
-[extras]
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[targets]
-test = ["Test"]
